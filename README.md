@@ -1,63 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Loan Default Prediction - ML Project</title>
-  <style>
-    body {
-      font-family: 'Segoe UI', sans-serif;
-      background-color: #f9f9f9;
-      color: #333;
-      line-height: 1.6;
-      margin: 40px auto;
-      max-width: 900px;
-      padding: 0 20px;
-    }
-    h1, h2, h3 {
-      color: #004080;
-    }
-    code {
-      background: #eee;
-      padding: 2px 5px;
-      border-radius: 4px;
-    }
-    table {
-      width: 100%;
-      border-collapse: collapse;
-      margin-top: 15px;
-    }
-    table, th, td {
-      border: 1px solid #ccc;
-      padding: 10px;
-      text-align: center;
-    }
-    th {
-      background-color: #f0f8ff;
-    }
-    .section {
-      margin-bottom: 40px;
-    }
-    a {
-      color: #004080;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    .footer {
-      margin-top: 60px;
-      font-size: 0.9em;
-      color: #666;
-    }
-    .folder-structure {
-      background-color: #f4f4f4;
-      padding: 15px;
-      font-family: monospace;
-      white-space: pre;
-      border-left: 4px solid #004080;
-    }
-  </style>
-</head>
+
 <body>
 
   <h1>🧠 Loan Default Prediction — Machine Learning Project</h1>
@@ -166,7 +107,7 @@
     <h2>👨‍💻 Author</h2>
     <p><strong>Osama Sher</strong><br>
       <a href="mailto:sherosama23@gmail.com">sherosama23@gmail.com</a> |
-      <a href="https://www.linkedin.com/">LinkedIn</a> (Add your link)</p>
+      <a href="https://www.linkedin.com/">LinkedIn</a> https://www.linkedin.com/in/osama-sher-606462222</p>
   </div>
 
   <div class="footer">
